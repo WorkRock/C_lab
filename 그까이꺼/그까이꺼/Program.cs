@@ -1,0 +1,14 @@
+﻿class Program
+{
+    static void Main(string[] args)
+    {
+        int a = 10;
+        int b = 20;
+        int c = a + b;
+
+        short d = 3;
+        char e = 'a';
+        ulong f = 99999;
+
+    }
+}

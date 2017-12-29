@@ -1,0 +1,5 @@
+﻿  lab_review.c
+c:\users\admin\desktop\c언어\201632023\201632023\lab_review.c(25): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'int *'
+c:\users\admin\desktop\c언어\201632023\201632023\lab_review.c(25): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 2 has type 'double *'
+c:\users\admin\desktop\c언어\201632023\201632023\lab_review.c(25): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 3 has type 'char *'
+  201632023.vcxproj -> C:\Users\admin\Desktop\C언어\201632023\Debug\201632023.exe

@@ -1,0 +1,6 @@
+﻿  23.c
+c:\users\admin\desktop\c언어\보충과제\보충과제\23.c(38): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'Point'
+c:\users\admin\desktop\c언어\보충과제\보충과제\23.c(38): warning C4473: 'printf' : not enough arguments passed for format string
+  c:\users\admin\desktop\c언어\보충과제\보충과제\23.c(38): note: placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+  c:\users\admin\desktop\c언어\보충과제\보충과제\23.c(38): note: the missing variadic argument 2 is required by format string '%d'
+  보충과제.vcxproj -> C:\Users\admin\Desktop\C언어\보충과제\Debug\보충과제.exe

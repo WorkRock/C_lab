@@ -1,0 +1,4 @@
+﻿  maxmin.c
+c:\users\admin\desktop\c언어\maxmin\maxmin\maxmin.c(24): warning C4047: '-': 'double *' differs in levels of indirection from 'double (*)[10]'
+c:\users\admin\desktop\c언어\maxmin\maxmin\maxmin.c(44): warning C4172: returning address of local variable or temporary: max
+  maxmin.vcxproj -> C:\Users\admin\Desktop\C언어\maxmin\Debug\maxmin.exe

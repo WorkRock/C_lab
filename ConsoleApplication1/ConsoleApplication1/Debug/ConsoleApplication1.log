@@ -1,0 +1,4 @@
+﻿  1.c
+c:\users\admin\desktop\c언어\consoleapplication1\consoleapplication1\1.c(84): warning C4477: 'printf' : format string '%p' requires an argument of type 'void *', but variadic argument 1 has type 'int'
+c:\users\admin\desktop\c언어\consoleapplication1\consoleapplication1\1.c(101): warning C4172: returning address of local variable or temporary: max
+  ConsoleApplication1.vcxproj -> C:\Users\admin\Desktop\C언어\ConsoleApplication1\Debug\ConsoleApplication1.exe
